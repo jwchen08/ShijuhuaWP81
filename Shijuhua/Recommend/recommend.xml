@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <app name="10幅图" icon="10幅图.png" remark="每天十幅图，gif动不停！" id="9f48bf62-0b12-48cb-bea5-9f0c8102f700"/>
+  <app name="X-Note" icon="xx记事.jpg" remark="一款酷炫十足的记事本应用，亮瞎你的双眼，界面简洁，功能强大!" id="13eaa951-787b-4795-a037-45f5eb3087d0"/>
+  <app name="语音备忘录" icon="语音备忘录.png" remark="非常实用的语音记事本，直接说话就能保存，方便快捷，随时查看！" id="bc08a447-6f76-45ab-8db8-6e957b3150f4"/>
+  <app name="二维码生成" icon="二维码生成.png" remark="离线快速生成各种信息的二维码，同时支持将二维码保存到图片库！" id="0a4230e3-971c-4e7e-b4ba-416eb4b5cb1b"/>
+</root>

@@ -1,0 +1,116 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Shijuhua.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    >
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:SlideTransition Mode="SlideRightFadeIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:SlideTransition Mode="SlideLeftFadeIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:SlideTransition Mode="SlideRightFadeOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:SlideTransition Mode="SlideLeftFadeOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="PageTitle" FontSize="40" Text="关于10句话" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <ScrollViewer Grid.Row="1" Margin="2,0,2,0" RenderTransformOrigin="0.5,0.5">
+            <StackPanel x:Name="ContentPanel" RenderTransformOrigin="0.5,0.5">
+                <Image Height="180" HorizontalAlignment="Center" x:Name="image1" Stretch="Fill" Width="180" Source="/images/10.jpg" Margin="0,37,0,18" />
+                <TextBlock Text="版本 2.6.6" Height="36" HorizontalAlignment="Center" TextAlignment="Center" x:Name="textBlock2" Width="180" />
+                <TextBlock x:Name="textBlock3" TextWrapping="Wrap" Text="10句话网每天发布10句当今互联网世界最流行最牛话语。每天10句话，句句都精彩。汇集当今中国最牛话语，让你矗立在互联网世界最前沿。" Margin="20,48,20,24" />
+                <TextBlock x:Name="textBlock1" Text="该应用是10句话网Windows Phone版的非官方客户端，原网站网址为www.10juhua.com。" TextWrapping="Wrap" VerticalAlignment="Top" Margin="20,17,20,11" />
+                <Rectangle Height="2" Stroke="Black"  Margin="0,12,0,0" StrokeThickness="0">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <TextBlock TextWrapping="Wrap" Margin="20,25,20,10">
+                    <Run Text="帮助："/><LineBreak/>
+                    <Run Text="1、看到喜欢的感兴趣的段子可以添加收藏，或者分享到微博、人人等社交网络。"/><LineBreak/>
+                    <Run Text="2、收藏的语段也可以分享，或者取消收藏。"/><LineBreak/>
+                    <Run Text="3、在应用详情页面既可以通过下方的按钮切换上下文，也可以在页面上左右滑动切换。"/><LineBreak/>
+                    <Run Text="4、如果觉得该应用还不错，欢迎给该应用打分并评价，更欢迎对开发者进行赞助。"/><LineBreak/>
+                    <Run Text="5、如果遇到问题，请发送邮件进行反馈。"/></TextBlock>
+                <Rectangle Height="2" Stroke="Black" Margin="0,12,0,0" StrokeThickness="0">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+
+                <TextBlock TextWrapping="Wrap" Margin="20,25,20,5">
+                    <Run Text="关于广告："/><LineBreak/>
+                    <Run Text="点击一次，清爽三天！广告不影响正常阅读，欢迎各位点击广告，对开发者进行支持，些许的广告收入让开发者充满动力进行更新维护。"/><LineBreak/>
+                </TextBlock>
+                <Rectangle Height="2" Stroke="Black" Margin="0,0,0,0" StrokeThickness="0">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+
+                <TextBlock TextWrapping="Wrap" Margin="20,25,20,5">
+                    <Run Text="新版功能："/><LineBreak/>
+                    <Run Text="2.5.0版增加收藏内容全部导出功能。"/><LineBreak/>
+                    <Run Text="2.4.0版支持分享到微信朋友圈！"/><LineBreak/>
+                    <Run Text="2.3.0版本全面支持Windows Phone 8！"/><LineBreak/>
+                    <Run Text="2.2.0版本优化设置，加载一次后不再重复加载。"/><LineBreak/>
+                    <Run Text="2.1.0版本全面更新内容获取方式，由原先的RSS订阅被动获取变为直接从网页主动抓取，更新更及时，从此无延时！"/><LineBreak/>
+                </TextBlock>
+                <Rectangle Height="2" Stroke="Black" Margin="0,0,0,10" StrokeThickness="0">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+
+                <TextBlock TextWrapping="Wrap" Margin="20,25,20,5">
+                    <Run Text="隐私策略："/><LineBreak/>
+                    <Run Text="应用程序不会上传您的位置信息，也不会将您的位置信息用于其他用途！"/><LineBreak/>
+                </TextBlock>
+                <Rectangle Height="2" Stroke="Black" Margin="0,0,0,10" StrokeThickness="0">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+                
+
+            </StackPanel>
+        </ScrollViewer>
+        
+    </Grid>
+
+</phone:PhoneApplicationPage>

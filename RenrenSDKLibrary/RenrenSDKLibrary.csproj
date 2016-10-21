@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A0DAF137-14D2-4F92-B438-A449FCC48D09}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RenrenSDKLibrary</RootNamespace>
+    <AssemblyName>RenrenSDKLibrary</AssemblyName>
+    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
+    <SilverlightVersion>
+    </SilverlightVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <SilverlightApplication>false</SilverlightApplication>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
+    <PublishUrl>发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <DefaultLanguage>zh-CN</DefaultLanguage>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget />
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget />
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <PlatformTarget />
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <PlatformTarget />
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Business\APIRequestBS.cs" />
+    <Compile Include="Business\BusinessBase.cs" />
+    <Compile Include="Constants\WidgetDialogType.cs" />
+    <Compile Include="CustomControls\OauthControl.xaml.cs">
+      <DependentUpon>OauthControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EventArgs\APIRequestCompletedEventArgs.cs" />
+    <Compile Include="Helper\APIParameter.cs" />
+    <Compile Include="Helper\MD5Encry.cs" />
+    <Compile Include="Business\CreateAlbumBS.cs" />
+    <Compile Include="Business\FriendBS.cs" />
+    <Compile Include="Business\GetAlbumsBS.cs" />
+    <Compile Include="Business\GetUserInfoBS.cs" />
+    <Compile Include="Business\LoginBS.cs" />
+    <Compile Include="Model\AccessToken.cs" />
+    <Compile Include="Pages\UploadPhotoPage.xaml.cs">
+      <DependentUpon>UploadPhotoPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Request\APIRequest.cs" />
+    <Compile Include="WidgetDialog\LoginViewBS.cs" />
+    <Compile Include="Business\UploadPhotoBS.cs" />
+    <Compile Include="Constants\ConstantValue.cs" />
+    <Compile Include="Constants\Method.cs" />
+    <Compile Include="Browser\BrowserControl.xaml.cs">
+      <DependentUpon>BrowserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EventArgs\CreateAlbumCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\GetAlbumsCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\GetAppFriendsCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\GetAppFriendsIDCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\GetFriendsCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\GetFriendsIDCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\GetUsersCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\GetUserUidCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\LoginCompletedEventArgs.cs" />
+    <Compile Include="EventArgs\UploadPhotoCompletedEventArgs.cs" />
+    <Compile Include="Helper\ApiHelper.cs" />
+    <Compile Include="Helper\JsonUtility.cs" />
+    <Compile Include="Model\Album.cs" />
+    <Compile Include="Model\AppFriend.cs" />
+    <Compile Include="Model\ErrorMessage.cs" />
+    <Compile Include="Model\Friend.cs" />
+    <Compile Include="Model\Photo.cs" />
+    <Compile Include="Model\RequestParameterEntity.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Model\UserInfo.cs" />
+    <Compile Include="Model\UserList.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RenrenAPI.cs" />
+    <Compile Include="RenrenSDK.cs" />
+    <Compile Include="Request\CreateAlbumRequest.cs" />
+    <Compile Include="Request\GetAlbumsRequest.cs" />
+    <Compile Include="Request\GetAppFriendsRequest.cs" />
+    <Compile Include="Request\GetCurUserInfoRequest.cs" />
+    <Compile Include="Request\GetFriendsIDRequest.cs" />
+    <Compile Include="Request\GetFriendsRequest.cs" />
+    <Compile Include="Request\GetUserInfoRequest.cs" />
+    <Compile Include="Request\LoginRequest.cs" />
+    <Compile Include="Request\RenrenClient.cs" />
+    <Compile Include="Request\UploadPhotoRequest.cs" />
+    <Compile Include="EventArgs\DownloadStringCompletedEventArgs.cs" />
+    <Compile Include="WebRequest\RenrenWebRequest.cs" />
+    <Compile Include="WidgetDialog\WidgetAPIRequestBS.cs" />
+    <Compile Include="WidgetDialog\WidgetDialog.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="README_FIRST.txt" />
+    <Content Include="Toolkit.Content\ApplicationBar.Add.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Delete.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Select.png" />
+    <Resource Include="Images\head-frame%402x.png" />
+    <Resource Include="Images\renren-logo-top-bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Browser\BrowserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomControls\OauthControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\UploadPhotoPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone.Controls.Toolkit, Version=8.0.1.0, Culture=neutral, PublicKeyToken=b772ad94eb9ca604, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <ProjectExtensions />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,248 @@
+D:\phone7_work\projects\svn\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.dll
+D:\phone7_work\projects\svn\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.pdb
+D:\phone7_work\projects\svn\RenrenSDKLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\phone7_work\projects\svn\RenrenSDKLibrary\obj\Debug\Controls\BrowserControl.g.i.cs
+D:\phone7_work\projects\svn\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.g.resources
+D:\phone7_work\projects\svn\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.dll
+D:\phone7_work\projects\svn\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.pdb
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.dll
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.pdb
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\obj\Debug\Controls\BrowserControl.g.i.cs
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\obj\Debug\Pages\UploadPhotoPage.g.i.cs
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.g.resources
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.dll
+C:\Users\szs\Desktop\新建文件夹 (2)\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.pdb
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.dll
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.pdb
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\obj\Debug\Pages\UploadPhotoPage.g.i.cs
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.g.resources
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.dll
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.pdb
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\obj\Debug\Browser\BrowserControl.g.i.cs
+E:\Projects\WP7 SDK v2.0\RenrenSDKLibrary\obj\Debug\CustomControls\OauthControl.g.i.cs
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.csprojResolveAssemblyReference.cache
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\Browser\BrowserControl.g.cs
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\CustomControls\OauthControl.g.cs
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\Pages\UploadPhotoPage.g.cs
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.g.resources
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.pdb
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.pdb
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.pdb
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\Browser\BrowserControl.g.cs
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\CustomControls\OauthControl.g.cs
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\Pages\UploadPhotoPage.g.cs
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.g.resources
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.pdb
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\jwchen08\Documents\Visual Studio 2013\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.pdb
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.csprojResolveAssemblyReference.cache
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\Browser\BrowserControl.g.cs
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\CustomControls\OauthControl.g.cs
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\Pages\UploadPhotoPage.g.cs
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.g.resources
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.dll
+E:\WindowsPhone\Projects\Shijuhua\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.pdb
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\RenrenSDKLibrary.pdb
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.csprojResolveAssemblyReference.cache
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\obj\Debug\Browser\BrowserControl.g.cs
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\obj\Debug\CustomControls\OauthControl.g.cs
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\obj\Debug\Pages\UploadPhotoPage.g.cs
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.g.resources
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.dll
+E:\WindowsPhone\Projects\ShijuhuaWP81\RenrenSDKLibrary\obj\Debug\RenrenSDKLibrary.pdb
