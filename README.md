@@ -1,2 +1,2 @@
 # ShijuhuaWP81
-A WIndows Phone project
+A Windows Phone project
